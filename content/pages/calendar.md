@@ -4,16 +4,209 @@ title: Calendar
 uid: 29c0f94f-96c7-e032-7b5e-d87bec6628ca
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1-4 | _Elementary Kinetics  {{< br >}}_  {{< br >}}Introduction  {{< br >}}  {{< br >}}Elementary Steps, Steady State Approximation, Transform Methods  {{< br >}}  {{< br >}}Numerical Solution of Differential Equations  {{< br >}}  {{< br >}}Use of CHEMKIN® and Similar Software  {{< br >}}  {{< br >}}Equilibrium  {{< br >}}  {{< br >}}Literature Sources of Thermo, Kinetics | Problem set 1 due in session 3 |
-| 5-8 | _Experimental Kinetics  {{< br >}}_  {{< br >}}Experimental Techniques  {{< br >}}  {{< br >}}Signal-to-noise Estimation  {{< br >}}  {{< br >}}Dynamic Range  {{< br >}}  {{< br >}}Data Analysis | Problem set 2 due in session 7 |
-| 9 | Review of Thermodynamics and Statistical Mechanics | Problem set 3 due |
-| 10 | In Class Exam |  |
-| 11-14 | _Reaction Rate Theory  {{< br >}}_  {{< br >}}Potential Energy Surfaces  {{< br >}}  {{< br >}}Introduction to Quantum Chemistry  {{< br >}}  {{< br >}}Reaction Paths  {{< br >}}  {{< br >}}Transition State Theory  {{< br >}}  {{< br >}}RRKM Theory  {{< br >}}  {{< br >}}Relation to Quantum Scattering  {{< br >}}  {{< br >}}Pressure Dependence: Fall-off, Chemical-activation | Choose and review topics for semester project |
-| 15-16 | Heterogeneous Reactions | Problem set 4 due in session 15 |
-| 17-18 | _Practical Methods for Predicting Kinetics and Thermodynamics_  {{< br >}}  {{< br >}}Functional Groups  {{< br >}}  {{< br >}}Group Additivity, Reaction Families |  |
-| 19-22 | _Handling Large Kinetic Models_  {{< br >}}  {{< br >}}Sensitivity Analysis, Uncertainty Propagation  {{< br >}}  {{< br >}}Kinetic Model Reduction  {{< br >}}  {{< br >}}Range of Validity of Kinetic Models  {{< br >}}  {{< br >}}Computer Construction of Chemical Kinetic Models  {{< br >}}  {{< br >}}Example: Atmospheric Chemistry Models | Problem set 5 due in session 21 |
-| 23-24 | _Reactions in Solution_  {{< br >}}  {{< br >}}Liquid Phase Reactions  {{< br >}}  {{< br >}}Solvent Effects |  |
-| 25-26 | _Catalysis  {{< br >}}_  {{< br >}}Homogeneous and Heterogeneous Catalysis  {{< br >}}  {{< br >}}Catalysis by Acids/Bases, Enzymes, Organometallics, Metals, Oxides |  |
-| 27-28 | Presentation and Review of Semester Projects |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-4
+{{< tdclose >}}
+{{< tdopen >}}
+_Elementary Kinetics  
+_  
+Introduction  
+  
+Elementary Steps, Steady State Approximation, Transform Methods  
+  
+Numerical Solution of Differential Equations  
+  
+Use of CHEMKIN® and Similar Software  
+  
+Equilibrium  
+  
+Literature Sources of Thermo, Kinetics
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due in session 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5-8
+{{< tdclose >}}
+{{< tdopen >}}
+_Experimental Kinetics  
+_  
+Experimental Techniques  
+  
+Signal-to-noise Estimation  
+  
+Dynamic Range  
+  
+Data Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due in session 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Review of Thermodynamics and Statistical Mechanics
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+In Class Exam
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11-14
+{{< tdclose >}}
+{{< tdopen >}}
+_Reaction Rate Theory  
+_  
+Potential Energy Surfaces  
+  
+Introduction to Quantum Chemistry  
+  
+Reaction Paths  
+  
+Transition State Theory  
+  
+RRKM Theory  
+  
+Relation to Quantum Scattering  
+  
+Pressure Dependence: Fall-off, Chemical-activation
+{{< tdclose >}}
+{{< tdopen >}}
+Choose and review topics for semester project
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15-16
+{{< tdclose >}}
+{{< tdopen >}}
+Heterogeneous Reactions
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 due in session 15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17-18
+{{< tdclose >}}
+{{< tdopen >}}
+_Practical Methods for Predicting Kinetics and Thermodynamics_  
+  
+Functional Groups  
+  
+Group Additivity, Reaction Families
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19-22
+{{< tdclose >}}
+{{< tdopen >}}
+_Handling Large Kinetic Models_  
+  
+Sensitivity Analysis, Uncertainty Propagation  
+  
+Kinetic Model Reduction  
+  
+Range of Validity of Kinetic Models  
+  
+Computer Construction of Chemical Kinetic Models  
+  
+Example: Atmospheric Chemistry Models
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 due in session 21
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23-24
+{{< tdclose >}}
+{{< tdopen >}}
+_Reactions in Solution_  
+  
+Liquid Phase Reactions  
+  
+Solvent Effects
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25-26
+{{< tdclose >}}
+{{< tdopen >}}
+_Catalysis  
+_  
+Homogeneous and Heterogeneous Catalysis  
+  
+Catalysis by Acids/Bases, Enzymes, Organometallics, Metals, Oxides
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27-28
+{{< tdclose >}}
+{{< tdopen >}}
+Presentation and Review of Semester Projects
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
